@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/411_wk6_day1_redux_thunk/static/css/main.be9515fe.chunk.css",
+    "main.js": "/411_wk6_day1_redux_thunk/static/js/main.e7eb939d.chunk.js",
+    "main.js.map": "/411_wk6_day1_redux_thunk/static/js/main.e7eb939d.chunk.js.map",
+    "runtime~main.js": "/411_wk6_day1_redux_thunk/static/js/runtime~main.b32a8eb5.js",
+    "runtime~main.js.map": "/411_wk6_day1_redux_thunk/static/js/runtime~main.b32a8eb5.js.map",
+    "static/js/2.feeda872.chunk.js": "/411_wk6_day1_redux_thunk/static/js/2.feeda872.chunk.js",
+    "static/js/2.feeda872.chunk.js.map": "/411_wk6_day1_redux_thunk/static/js/2.feeda872.chunk.js.map",
+    "index.html": "/411_wk6_day1_redux_thunk/index.html",
+    "precache-manifest.b8df2983684d5805e7866f4014581f97.js": "/411_wk6_day1_redux_thunk/precache-manifest.b8df2983684d5805e7866f4014581f97.js",
+    "service-worker.js": "/411_wk6_day1_redux_thunk/service-worker.js",
+    "static/css/main.be9515fe.chunk.css.map": "/411_wk6_day1_redux_thunk/static/css/main.be9515fe.chunk.css.map"
+  }
+}
